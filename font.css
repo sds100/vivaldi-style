@@ -13,13 +13,14 @@ font-size: 18px;
 }
 
 .OmniDropdown {
-	font-size: 18px
+	font-size: 18px;
 }
 
 .OmniLinkItem {
 	--item-height: 30px;
 }
 
+.OmniLinkItem-Url,
 .OmniLinkItem-Details {
-	height: auto !important
+	height: auto !important;
 }
