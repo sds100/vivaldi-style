@@ -1,0 +1,25 @@
+* {
+	font-family: "system ui" !important;
+	font-size: 101%;
+}
+
+.tab-header {font-size: 18px;}
+
+input.url.vivaldi-addressfield,
+input.url.vivaldi-addressfield:not(:focus),
+input.searchfield-input.vivaldi-searchfield, 
+input.searchfield-input.vivaldi-searchfield:not(:focus) {
+font-size: 18px;
+}
+
+.OmniDropdown {
+	font-size: 18px
+}
+
+.OmniLinkItem {
+	--item-height: 30px;
+}
+
+.OmniLinkItem-Details {
+	height: auto !important
+}
