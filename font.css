@@ -8,7 +8,7 @@ input.url.vivaldi-addressfield,
 input.url.vivaldi-addressfield:not(:focus),
 input.searchfield-input.vivaldi-searchfield, 
 input.searchfield-input.vivaldi-searchfield:not(:focus) {
-font-size: 18px;
+	font-size: 18px;
 }
 
 .OmniDropdown {
@@ -22,4 +22,9 @@ font-size: 18px;
 .OmniLinkItem-Url,
 .OmniLinkItem-Details {
 	height: auto !important;
+}
+
+.UrlBar,
+.UrlField {
+	font-size: 18px;
 }
