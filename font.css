@@ -1,7 +1,11 @@
 * {
-	font-family: "system ui" !important;
+	font-family: system-ui !important;
 }
 
+.tab-position .tab.active .tab-header .favicon {
+    filter: none !important;
+}
+/* 
 .tab-header {font-size: 18px;}
 
 input.url.vivaldi-addressfield,
@@ -27,4 +31,4 @@ input.searchfield-input.vivaldi-searchfield:not(:focus) {
 .UrlBar,
 .UrlField {
 	font-size: 18px;
-}
+} */
